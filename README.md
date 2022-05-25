@@ -6,7 +6,7 @@
 
 #### A task scheduler app built using React Native &amp; Expo CLI
 
-<img src="./.assets/mockup.png" alt="mockup" width="700" height="400">
+<img src="./.assets/mockup.png" alt="mockup" width="720">
 
 </div>
 
@@ -72,7 +72,7 @@ Database: Local Storage
 
 ## License
 
-This App is licensed is licensed under the terms of the [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) license &copy; 2022 [Aarav](https://github.com/aaaravv).
+This App is licensed under the terms of the [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) license &copy; 2022 [Aarav](https://github.com/aaaravv).
 
 ## Feedback
 
