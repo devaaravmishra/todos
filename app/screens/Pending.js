@@ -256,7 +256,7 @@ const styles = StyleSheet.create({
 	},
 	desc: {
 		color: "#999999",
-		fontSize: 20,
+		fontSize: 15,
 		margin: 5,
 		marginLeft: "5%",
 	},
@@ -315,7 +315,8 @@ const styles = StyleSheet.create({
 	},
 	title: {
 		color: "#000000",
-		fontSize: 30,
+		fontSize: 20,
+		fontWeight: "bold",
 		margin: 5,
 		marginLeft: "5%",
 	},
