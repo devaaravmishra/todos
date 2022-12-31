@@ -217,7 +217,7 @@ const styles = StyleSheet.create({
 	},
 	desc: {
 		color: colors.mediumgray,
-		fontSize: 20,
+		fontSize: 15,
 		margin: 5,
 		marginLeft: "5%",
 	},
@@ -276,7 +276,8 @@ const styles = StyleSheet.create({
 	},
 	title: {
 		color: colors.black,
-		fontSize: 30,
+		fontSize: 20,
+		fontWeight: "bold",
 		margin: 5,
 		marginLeft: "5%",
 	},
