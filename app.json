@@ -1,12 +1,19 @@
 {
-	"expo": {
-		"name": "todos",
-		"slug": "todos",
-		"version": "1.0.0",
-		"orientation": "portrait",
-		"notification": {
-			"icon": "./app/assets/images/logo.png"
-		},
-		"assetBundlePatterns": ["**/*"]
-	}
+  "expo": {
+    "name": "todos",
+    "slug": "todos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "notification": {
+      "icon": "./app/assets/images/logo.png"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "4850568e-0fbc-4842-88e0-8c6c3cb7fbe9"
+      }
+    }
+  }
 }
